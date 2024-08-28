@@ -1,0 +1,53 @@
+public class foreach
+{
+  void A()
+  {
+    int[][] a = new int[5][];
+  
+    a[0] = new int[5] {1, 2, 3, 4, 5};
+    a[1] = new int[5] {4, 3, 1, 5, 2};
+    a[2] = new int[5] {5, 3, 2, 2, 1};
+    a[3] = new int[5] {2, 6, 9, 3, 5};
+    a[4] = new int[5] {1, 8, 3, 4, 5};
+
+    foreach (int[] number in a)
+    {
+      foreach (int[] n in number)
+      {
+          Debug.Log(n);
+      }
+    }
+
+  }
+
+  void B()
+  {
+    List<string> names = new List)<string>(); 
+    names.Add("주민1");
+    names.Add("주민2");
+    names.Add("주민3");
+  
+    foreach (int name in names)
+      {
+        Debug.Log(name);
+      }
+  }
+}
+
+
+  void C()
+  {
+    Dictionary<string, int> points = new Dictionary<string, int>();
+
+    points.Add("Slime", 19000);
+    points.Add("Goblin", 12000);
+    points.Add("Troll", 500);
+    points.Add("Dragon", 12);
+
+    foreach (KeyValuePair<string, int> pair in points)
+    {
+        Debug.Log(pair.Key + ": " + pair.Value);
+    }
+
+  }
+}
