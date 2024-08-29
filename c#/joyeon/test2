@@ -1,0 +1,34 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ST : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        int[][] nums = new int[3][];
+        nums[0] = new int[5] { 1, 2, 3, 4, 5 };
+        nums[1] = new int[5] { 4, 3, 1, 5, 2 };
+        nums[2] = new int[5] { 5, 3, 2, 2, 1 };
+        foreach (int[] numss in nums)
+        {
+            foreach (int i in numss)
+            {
+                if ( i > 2)
+                {
+                    Debug.Log(i);
+                }
+                
+            }
+        }
+
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
