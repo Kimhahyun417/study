@@ -1,0 +1,35 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using UnityEngine;
+
+public class ST : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        int[] nums = new int[10] { 1 , 2,3,4,5,6,7,8,9, 10};
+        int temp = 0;
+
+        for (int i = 0; i < nums.Length /2; i++)
+        {
+            temp = nums[i];
+            nums[i] = nums[nums.Length - i -1];
+            nums[nums.Length - i - 1] = temp;
+
+        }
+        foreach (int num in nums)
+        {
+            Debug.Log(num);
+        }
+
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
