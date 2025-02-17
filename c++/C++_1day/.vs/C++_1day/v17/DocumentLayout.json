@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E425A665-A9BC-41F5-A61D-356DA8BA374A}|C\u002B\u002B_1day\\C\u002B\u002B_1day.vcxproj|C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\C\u002B\u002B_1day\\Struct_vs_Cass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E425A665-A9BC-41F5-A61D-356DA8BA374A}|C\u002B\u002B_1day\\C\u002B\u002B_1day.vcxproj|solutionrelative:C\u002B\u002B_1day\\Struct_vs_Cass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E425A665-A9BC-41F5-A61D-356DA8BA374A}|C\u002B\u002B_1day\\C\u002B\u002B_1day.vcxproj|C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\C\u002B\u002B_1day\\Hellow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E425A665-A9BC-41F5-A61D-356DA8BA374A}|C\u002B\u002B_1day\\C\u002B\u002B_1day.vcxproj|solutionrelative:C\u002B\u002B_1day\\Hellow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E425A665-A9BC-41F5-A61D-356DA8BA374A}|C\u002B\u002B_1day\\C\u002B\u002B_1day.vcxproj|C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\C\u002B\u002B_1day\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E425A665-A9BC-41F5-A61D-356DA8BA374A}|C\u002B\u002B_1day\\C\u002B\u002B_1day.vcxproj|solutionrelative:C\u002B\u002B_1day\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Struct_vs_Cass.cpp",
+              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\C\u002B\u002B_1day\\Struct_vs_Cass.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B_1day\\Struct_vs_Cass.cpp",
+              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\C\u002B\u002B_1day\\Struct_vs_Cass.cpp",
+              "RelativeToolTip": "C\u002B\u002B_1day\\Struct_vs_Cass.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T06:10:01.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Human.cpp",
+              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\C\u002B\u002B_1day\\Human.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B_1day\\Human.cpp",
+              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\C\u002B\u002B_1day\\Human.cpp",
+              "RelativeToolTip": "C\u002B\u002B_1day\\Human.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T05:43:44.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hellow.cpp",
+              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\C\u002B\u002B_1day\\Hellow.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B_1day\\Hellow.cpp",
+              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_1day\\C\u002B\u002B_1day\\Hellow.cpp",
+              "RelativeToolTip": "C\u002B\u002B_1day\\Hellow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T05:23:05.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
