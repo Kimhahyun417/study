@@ -40,7 +40,7 @@ void SetScene(SCENE_ID id)
 
 }
 
-int main() 
+int amain() 
 {
 	SetScene(STAGE);
 

@@ -13,45 +13,87 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Stage">
-      <UniqueIdentifier>{03b25b7b-d8de-45c5-a5fc-43f866dd8b23}</UniqueIdentifier>
+    <Filter Include="Source Files\Scene">
+      <UniqueIdentifier>{29cb6c54-6ace-4eee-9ccc-d034bcc562e6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Logo">
+    <Filter Include="Source Files\Scene\Logo">
       <UniqueIdentifier>{3b8d04b7-4afa-41d8-b849-6af1ed9c856f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Menu">
+    <Filter Include="Source Files\Scene\Menu">
       <UniqueIdentifier>{6eacf1fd-ede2-4858-b293-584fb842fc1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene\Stage">
+      <UniqueIdentifier>{03b25b7b-d8de-45c5-a5fc-43f866dd8b23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Character">
+      <UniqueIdentifier>{0752cd04-ab55-4bc2-8c37-e33df7a151b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Character\NPC">
+      <UniqueIdentifier>{48ec7d93-44f0-4101-a8a7-bf100096cd52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Character\Player">
+      <UniqueIdentifier>{7d1cd075-756f-4f52-a632-e6d12638a7ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Character\Enemy">
+      <UniqueIdentifier>{876861e4-0734-41a4-b426-6f254c801e0f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Scene.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Stage.cpp">
-      <Filter>Source Files\Stage</Filter>
+      <Filter>Source Files\Scene\Stage</Filter>
     </ClCompile>
     <ClCompile Include="Logo.cpp">
-      <Filter>Source Files\Logo</Filter>
+      <Filter>Source Files\Scene\Logo</Filter>
     </ClCompile>
     <ClCompile Include="Menu.cpp">
-      <Filter>Source Files\Menu</Filter>
+      <Filter>Source Files\Scene\Menu</Filter>
     </ClCompile>
     <ClCompile Include="cMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source Files\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Character\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Character\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Npc.cpp">
+      <Filter>Source Files\Character\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="ccmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Scene.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="Logo.h">
-      <Filter>Source Files\Logo</Filter>
+      <Filter>Source Files\Scene\Logo</Filter>
     </ClInclude>
     <ClInclude Include="Stage.h">
-      <Filter>Source Files\Stage</Filter>
+      <Filter>Source Files\Scene\Stage</Filter>
     </ClInclude>
     <ClInclude Include="Menu.h">
-      <Filter>Source Files\Menu</Filter>
+      <Filter>Source Files\Scene\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Source Files\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Source Files\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source Files\Character\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Source Files\Character\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc.h">
+      <Filter>Source Files\Character\NPC</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

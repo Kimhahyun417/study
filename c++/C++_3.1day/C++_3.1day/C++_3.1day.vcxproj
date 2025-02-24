@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{51dd3b72-16c9-4424-86ec-1cca5c081a97}</ProjectGuid>
-    <RootNamespace>C3day</RootNamespace>
+    <ProjectGuid>{52bfd73a-5101-4b82-9ab7-e871e73054c0}</ProjectGuid>
+    <RootNamespace>C31day</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,26 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Character.h" />
-    <ClInclude Include="Enemy.h" />
-    <ClInclude Include="Logo.h" />
-    <ClInclude Include="Menu.h" />
-    <ClInclude Include="Npc.h" />
-    <ClInclude Include="Player.h" />
-    <ClInclude Include="Scene.h" />
-    <ClInclude Include="Stage.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ccmain.cpp" />
-    <ClCompile Include="Character.cpp" />
-    <ClCompile Include="cMain.cpp" />
-    <ClCompile Include="Enemy.cpp" />
-    <ClCompile Include="Logo.cpp" />
-    <ClCompile Include="Menu.cpp" />
-    <ClCompile Include="Npc.cpp" />
-    <ClCompile Include="Player.cpp" />
-    <ClCompile Include="Scene.cpp" />
-    <ClCompile Include="Stage.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
