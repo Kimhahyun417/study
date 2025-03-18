@@ -1,39 +1,45 @@
-#include "Queue.h"
-
+#include "Deque.h"
+#include <Windows.h>
 int main()
 {
-	int a =0;
+	int key =0;
 	int b = 0;
-	Queue queue;
+	Deque deque;
 	while (true)
 	{
-		queue.ptr();
-		cout << "1:CL 2:PUSH 3:COUNT 4:ISEM 5:Pop" << endl;
+		system("cls");
+		deque.PrintAll();
+		cout << "ÃÑ °¹¼ö: " << deque.Count() << endl;
+		cout << "1:PsFr 2:PsBa 3:PoFr 4:PoBa 5:Cle 6:count" << endl;
 
-		cin >> a;
-		switch (a)
+		cin >> key;
+		switch (key)
 		{
 		case 1:
-			queue.Clear();
+			b++;
+			deque.Push_Front(b);
 			break;
+
 		case 2:
 			b++;
-			queue.Enqueue(b);
+			deque.Push_Back(b);
 			break;
 
 		case 3:
-			cout << queue.Count() << endl;
-
-
+			cout << "¹èÃâ°ª:" << deque.Pop_Front() << endl;
 			break;
+
 		case 4:
-			cout << queue.IsEmpty() << endl;
+			cout << "¹èÃâ°ª:" << deque.Pop_Back() << endl;
 			break;
+
 		case 5:
-			cout << queue.Dequeue() << endl;
+			b = 0;
+			deque.Clear();
 			break;
+
 		case 6:
-			queue.ptr();
+			
 			break;
 		default:
 			break;

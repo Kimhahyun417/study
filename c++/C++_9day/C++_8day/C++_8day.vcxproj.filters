@@ -21,9 +21,15 @@
     <ClCompile Include="amain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Deque.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Queue.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Deque.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
