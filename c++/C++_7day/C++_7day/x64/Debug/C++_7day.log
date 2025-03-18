@@ -1,0 +1,5 @@
+﻿  Stack.cpp
+  amain.cpp
+C:\Users\qndjd\source\repos\C++_7day\C++_7day\amain.cpp(6,6): warning C4101: 'b': unreferenced local variable
+  Generating Code...
+  C++_7day.vcxproj -> C:\Users\qndjd\source\repos\C++_7day\x64\Debug\C++_7day.exe
