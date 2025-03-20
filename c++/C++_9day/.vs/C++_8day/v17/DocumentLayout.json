@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Deque.cpp",
-              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_9day\\C\u002B\u002B_8day\\Deque.cpp",
-              "RelativeDocumentMoniker": "C\u002B\u002B_8day\\Deque.cpp",
-              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_9day\\C\u002B\u002B_8day\\Deque.cpp",
-              "RelativeToolTip": "C\u002B\u002B_8day\\Deque.cpp",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAIMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T06:21:35.799Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -63,6 +50,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deque.cpp",
+              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_9day\\C\u002B\u002B_8day\\Deque.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B_8day\\Deque.cpp",
+              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_9day\\C\u002B\u002B_8day\\Deque.cpp",
+              "RelativeToolTip": "C\u002B\u002B_8day\\Deque.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T06:21:35.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Deque.h",
               "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B_9day\\C\u002B\u002B_8day\\Deque.h",
@@ -71,8 +71,7 @@
               "RelativeToolTip": "C\u002B\u002B_8day\\Deque.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-18T06:19:32.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T06:19:32.128Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "C\u002B\u002B_8day\\amain.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T05:37:36.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T05:37:36.026Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "C\u002B\u002B_8day\\Queue.cpp",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T05:18:37.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T05:18:37.12Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "C\u002B\u002B_8day\\Queue.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-18T05:18:17.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T05:18:17.163Z"
             }
           ]
         }
