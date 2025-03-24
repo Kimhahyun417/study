@@ -19,30 +19,28 @@ int main()
 			b++;
 			Single.AddNode(b);
 			
-			
 			break;
-
 		case 2:
 			b++;
-			
+			Single.InsertNode(2, b);
 			break;
 			b++;
 		case 3:
-			
+			Single.UpdateNode(2, b);
 			break;
-
 		case 4:
+			Single.DeleteNodeData(2);
 			
 			break;
 
 		case 5:
+			Single.DeleteIndex(2);
 			
-			b = 0;
-
 			break;
 
 		case 6:
-
+			Single.ClearAllNode();
+			b = 0;
 			break;
 		default:
 			break;
@@ -50,6 +48,7 @@ int main()
 
 	}
 
+	Sleep(100);
 
 
 }

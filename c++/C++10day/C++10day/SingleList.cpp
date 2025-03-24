@@ -2,8 +2,8 @@
 
 void SingleList::AddNode(int _data)
 {
-    Node* newNode = new Node{ _data, nullptr };
-    if (!head)
+    Node* newNode = new Node{ _data, nullptr }; // 신규노드 생성
+    if (!head) // 헤드가 비었으면
     {
         head = newNode;
     }
@@ -20,37 +20,77 @@ void SingleList::AddNode(int _data)
 }
 void SingleList::InsertNode(int _index, int _data)
 {
+    Node* newNode = new Node{ _data, nullptr };
+    Node* temp = head;
+    for (int i = 0; i < _index-1; i++)
+    {
+        temp = temp->next;
+    }
+    newNode->next = temp->next;
+    temp->next = newNode;
+    count++;
 }
 
 void SingleList::UpdateNode(int _index, int _data)
 {
+    Node* temp = head;
+    for (int i = 0; i < _index-1; i++)
+    {
+        temp = temp->next;
+    }
+    temp->data = _data;
 }
 
 void SingleList::DeleteNodeData(int _data)
 {
+    Node* temp = head;
+    for (int i = 0; i < count; i++)
+    {
+        if (temp->data == _data)
+        {
+            DeleteIndex(i);
+            count--;
+        }
+        temp = temp->next;
+    }
+
 }
 
 void SingleList::DeleteIndex(int _index)
 {
+    Node* temp = head;
+    for (int i = 0; i < _index -1; i++)
+    {
+        temp = temp->next;
+    }
+    temp->next = temp->next->next;
+    count--;
 }
 
 void SingleList::ClearAllNode()
 {
+    head->next = nullptr;
 }
 
 int SingleList::GetNodeData(int _index)
 {
-    return 0;
+    Node* temp = head;
+    for (int i = 0; i < _index; i++)
+    {
+        temp = temp->next;
+    }
+   
+    return temp->data;
 }
 
 int SingleList::GetListSize()
 {
-    return 0;
+    return count;
 }
 
 bool SingleList::IsEmpty()
 {
-    return false;
+    return count++;
 }
 
 void SingleList::PrintAll()
