@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "C\u002B\u002B10day\\SingleList.h",
               "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B10day\\C\u002B\u002B10day\\SingleList.h",
               "RelativeToolTip": "C\u002B\u002B10day\\SingleList.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-21T07:46:23.776Z",
               "EditorCaption": ""
@@ -41,34 +41,8 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "amain.cpp",
-              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B10day\\C\u002B\u002B10day\\amain.cpp",
-              "RelativeDocumentMoniker": "C\u002B\u002B10day\\amain.cpp",
-              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B10day\\C\u002B\u002B10day\\amain.cpp",
-              "RelativeToolTip": "C\u002B\u002B10day\\amain.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-21T08:04:42.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SingleList.cpp",
-              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B10day\\C\u002B\u002B10day\\SingleList.cpp",
-              "RelativeDocumentMoniker": "C\u002B\u002B10day\\SingleList.cpp",
-              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B10day\\C\u002B\u002B10day\\SingleList.cpp",
-              "RelativeToolTip": "C\u002B\u002B10day\\SingleList.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-21T07:46:42.21Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -84,6 +58,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "amain.cpp",
+              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B10day\\C\u002B\u002B10day\\amain.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B10day\\amain.cpp",
+              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B10day\\C\u002B\u002B10day\\amain.cpp",
+              "RelativeToolTip": "C\u002B\u002B10day\\amain.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T08:04:42.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingleList.cpp",
+              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B10day\\C\u002B\u002B10day\\SingleList.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B10day\\SingleList.cpp",
+              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\c\u002B\u002B\\C\u002B\u002B10day\\C\u002B\u002B10day\\SingleList.cpp",
+              "RelativeToolTip": "C\u002B\u002B10day\\SingleList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T07:46:42.21Z",
+              "EditorCaption": ""
             }
           ]
         }
