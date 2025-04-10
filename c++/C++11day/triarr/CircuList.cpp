@@ -58,12 +58,16 @@ void CircularList::DeleteNodeData(int _data)
 
 void CircularList::DeleteIndex(int _index)
 {
+    if (_index > count)
+        return;
     // 사이 값 제거
     Node* temp = tail;
+  
+
 
     if (_index == count)
     {
-        for (int i = 0; i < _index - 2; i++)
+        for (int i = 0; i < _index-2 ; i++)
         {
             temp = temp->next;
         }
@@ -91,12 +95,18 @@ void CircularList::ClearAllNode()
 
 int CircularList::GetNodeData(int _index)
 {
-	return 0;
+    Node* temp = tail;
+    for (int i = 0; i < _index; i++)
+    {
+        temp = temp->next;
+    }
+
+    return temp->data;
 }
 
 bool CircularList::IsEmpty()
 {
-	return false;
+	return count == 0;
 }
 
 void CircularList::PrintAll()
