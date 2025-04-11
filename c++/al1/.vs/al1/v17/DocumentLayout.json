@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A80426B5-2779-45DC-912D-DF39D0BE04D1}|al1\\al1.vcxproj|C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al1\\al1\\amm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A80426B5-2779-45DC-912D-DF39D0BE04D1}|al1\\al1.vcxproj|solutionrelative:al1\\amm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A80426B5-2779-45DC-912D-DF39D0BE04D1}|al1\\al1.vcxproj|C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al1\\al1\\am.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A80426B5-2779-45DC-912D-DF39D0BE04D1}|al1\\al1.vcxproj|solutionrelative:al1\\am.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "amm.cpp",
+              "DocumentMoniker": "C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al1\\al1\\amm.cpp",
+              "RelativeDocumentMoniker": "al1\\amm.cpp",
+              "ToolTip": "C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al1\\al1\\amm.cpp",
+              "RelativeToolTip": "al1\\amm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T12:45:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "am.cpp",
               "DocumentMoniker": "C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al1\\al1\\am.cpp",
               "RelativeDocumentMoniker": "al1\\am.cpp",
               "ToolTip": "C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al1\\al1\\am.cpp",
               "RelativeToolTip": "al1\\am.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-10T11:59:46.933Z",
               "EditorCaption": ""

@@ -1,0 +1,3 @@
+﻿  amain.cpp
+C:\Users\qndjd\OneDrive\바탕 화면\coding\study\c++\al2\al2\amain.cpp(14,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  al2.vcxproj -> C:\Users\qndjd\OneDrive\바탕 화면\coding\study\c++\al2\x64\Debug\al2.exe
