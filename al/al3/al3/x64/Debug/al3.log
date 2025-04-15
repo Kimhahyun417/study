@@ -1,0 +1,4 @@
+﻿  amain.cpp
+C:\Users\qndjd\source\repos\Kimhahyun417\study\al\al3\al3\amain.cpp(11,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\qndjd\source\repos\Kimhahyun417\study\al\al3\al3\amain.cpp(67,1): warning C4717: 'QuickSort': recursive on all control paths, function will cause runtime stack overflow
+  al3.vcxproj -> C:\Users\qndjd\source\repos\Kimhahyun417\study\al\al3\x64\Debug\al3.exe

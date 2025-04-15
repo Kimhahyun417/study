@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\al3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95225912-AB9E-47F7-9EC0-8D863F27CB58}|al3\\al3.vcxproj|C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\al3\\al3\\amain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95225912-AB9E-47F7-9EC0-8D863F27CB58}|al3\\al3.vcxproj|solutionrelative:al3\\amain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "amain.cpp",
+              "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\al3\\al3\\amain.cpp",
+              "RelativeDocumentMoniker": "al3\\amain.cpp",
+              "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\al3\\al3\\amain.cpp",
+              "RelativeToolTip": "al3\\amain.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwEMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T03:55:43.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
