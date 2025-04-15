@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6063340E-FEEC-4984-8FA1-51B8AFCD22AC}|al2\\al2.vcxproj|C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al2\\al2\\amain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6063340E-FEEC-4984-8FA1-51B8AFCD22AC}|al2\\al2.vcxproj|solutionrelative:al2\\amain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "amain.cpp",
+              "DocumentMoniker": "C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al2\\al2\\amain.cpp",
+              "RelativeDocumentMoniker": "al2\\amain.cpp",
+              "ToolTip": "C:\\Users\\qndjd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\coding\\study\\c\u002B\u002B\\al2\\al2\\amain.cpp",
+              "RelativeToolTip": "al2\\amain.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T11:31:41.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
