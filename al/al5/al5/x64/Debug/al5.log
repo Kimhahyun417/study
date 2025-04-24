@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+C:\Users\qndjd\source\repos\Kimhahyun417\study\al\al5\al5\Graph.cpp(61,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\qndjd\source\repos\Kimhahyun417\study\al\al5\al5\Graph.cpp(67,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  al5.vcxproj -> C:\Users\qndjd\source\repos\Kimhahyun417\study\al\al5\x64\Debug\al5.exe

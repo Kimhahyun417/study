@@ -15,18 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PriorityQueue.cpp">
+    <ClCompile Include="amain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="amain.cpp">
+    <ClCompile Include="Graph.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PriorityQueue.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="amain.h">
+    <ClInclude Include="Graph.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

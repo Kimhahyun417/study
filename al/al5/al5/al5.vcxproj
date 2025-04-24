@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6263089a-a43f-4dc7-b007-f80bca48811a}</ProjectGuid>
-    <RootNamespace>al4</RootNamespace>
+    <ProjectGuid>{118c8c5b-ed2c-49ec-a31e-6f4bc0df546f}</ProjectGuid>
+    <RootNamespace>al5</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,12 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="amain.h" />
-    <ClInclude Include="PriorityQueue.h" />
+    <ClCompile Include="amain.cpp" />
+    <ClCompile Include="Graph.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="amain.cpp" />
-    <ClCompile Include="PriorityQueue.cpp" />
+    <ClInclude Include="Graph.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
