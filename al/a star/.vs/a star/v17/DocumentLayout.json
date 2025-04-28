@@ -7,12 +7,15 @@
       "RelativeMoniker": "D:0:0:{9E45AB6D-187A-4F2C-9B76-15C2746BC722}|a star\\a star.vcxproj|solutionrelative:a star\\Astar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9E45AB6D-187A-4F2C-9B76-15C2746BC722}|a star\\a star.vcxproj|C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\a star\\a star\\amain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E45AB6D-187A-4F2C-9B76-15C2746BC722}|a star\\a star.vcxproj|solutionrelative:a star\\amain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E45AB6D-187A-4F2C-9B76-15C2746BC722}|a star\\a star.vcxproj|C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\a star\\a star\\Astar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9E45AB6D-187A-4F2C-9B76-15C2746BC722}|a star\\a star.vcxproj|solutionrelative:a star\\Astar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E45AB6D-187A-4F2C-9B76-15C2746BC722}|a star\\a star.vcxproj|C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\a star\\a star\\amain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E45AB6D-187A-4F2C-9B76-15C2746BC722}|a star\\a star.vcxproj|solutionrelative:a star\\amain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\stack||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +25,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 304,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stack",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\stack",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\stack",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\stack",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\stack",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAvwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-28T05:48:33.288Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,33 +47,33 @@
               "RelativeDocumentMoniker": "a star\\Astar.cpp",
               "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\a star\\a star\\Astar.cpp",
               "RelativeToolTip": "a star\\Astar.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T06:32:31.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Astar.h",
               "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\a star\\a star\\Astar.h",
               "RelativeDocumentMoniker": "a star\\Astar.h",
               "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\a star\\a star\\Astar.h",
               "RelativeToolTip": "a star\\Astar.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T06:32:28.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "amain.cpp",
               "DocumentMoniker": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\a star\\a star\\amain.cpp",
               "RelativeDocumentMoniker": "a star\\amain.cpp",
               "ToolTip": "C:\\Users\\qndjd\\source\\repos\\Kimhahyun417\\study\\al\\a star\\a star\\amain.cpp",
               "RelativeToolTip": "a star\\amain.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T05:49:25.6Z",
               "EditorCaption": ""
