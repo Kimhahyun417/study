@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\source\\day05\\arrow.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\intermediate\\build\\win64\\x64\\day05editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\day05\\definitions.day05.h",
+            "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\source\\day05\\arrow.h",
+            "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\intermediate\\build\\win64\\unrealeditor\\inc\\day05\\uht\\arrow.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

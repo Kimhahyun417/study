@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\intermediate\\build\\win64\\unrealeditor\\inc\\day05\\uht\\day05gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\intermediate\\build\\win64\\x64\\day05editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\day05\\definitions.day05.h",
+            "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\source\\day05\\day05gamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\qndjd\\desktop\\coding\\study\\unreal\\day05\\intermediate\\build\\win64\\unrealeditor\\inc\\day05\\uht\\day05gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
